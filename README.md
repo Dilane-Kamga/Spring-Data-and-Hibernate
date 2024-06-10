@@ -1,7 +1,3 @@
-Certainly! Below is a sample README file for your GitHub repository focused on Spring Data and Hibernate:
-
----
-
 # Spring Data and Hibernate Examples
 
 Welcome to the repository showcasing my work on Spring Data and Hibernate! This repository contains a collection of projects and examples that demonstrate best practices, usage patterns, and integrations with these powerful Java-based frameworks.
